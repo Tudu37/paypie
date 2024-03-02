@@ -24,6 +24,9 @@ after that it will route to homepage where we see Users,and we can add multiple 
 *For profile Section also we can update profilepic and Username
 *till now i haven't given option for delete
 
+project complete, 
+there may be a few point that i might be have missed
+
 Given efforts into the project Hope you will like the it
 --------------Thank you-------------------------------
 
